@@ -6,7 +6,7 @@ MODS=""
 # Enter volume name e.g. /mnt/volume_sfo3_01
 VOLUME=""
 
-# Enter server jar version e.g. https://meta.fabricmc.net/v2/versions/loader/1.20.4/0.15.11/1.0.1/server/jar
+# Enter server jar version e.g. https://meta.fabricmc.net/v2/versions/loader/1.21/0.15.11/1.0.1/server/jar
 JAR=""
 
 ## ----------- DONT CHANGE ANYTHING BELOW ----------- ##
